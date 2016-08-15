@@ -15,4 +15,3 @@ for i in xrange(num_points):
 x_data = [v[0] for v in vectors_set]
 y_data = [v[1] for v in vectors_set]
 
-tf.Session()
